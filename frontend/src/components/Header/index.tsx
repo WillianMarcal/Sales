@@ -9,7 +9,7 @@ function Header() {
                 <img src={logo} alt="Sales" />
                 <h1>Sales</h1>
                 <p>
-                    Development by Willian Peter Marcal
+                    Developed by Willian Peter Marcal
                     <a href="https://github.com/WillianMarcal/Sales"></a>
                 </p>
             </div>
